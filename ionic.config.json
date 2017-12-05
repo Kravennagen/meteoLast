@@ -1,0 +1,8 @@
+{
+  "name": "meteolast",
+  "app_id": "361cbb66",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
